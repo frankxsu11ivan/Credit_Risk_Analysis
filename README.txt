@@ -9,7 +9,7 @@ Using the information provided in the code, the training and target  code variab
 https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/Line%206%20verification.png
 
 Using these algorithms: 
-###you’ll resample the dataset, 
+###resample the dataset, 
 ###view the count of the target classes, 
 ###train a logistic regression classifier, 
 ###calculate the balanced accuracy score, 
