@@ -40,15 +40,14 @@ EasyEnsembleClassifier algorithm
 ###A confusion matrix has been generated 
 ###An imbalanced classification report has been generated
 
-Results of all six machine learning models:
-There is a bulleted list
-Balanced accuracy score
-#
-#
-#
-#
-#
-#
+Bulleted Result List of six machine learning models Accuracy Scores:
+#SKLearn accuracy Score .99
+#Balanced accuracy Score .60
+#Smote Oversampling accuracy Score .69
+#Smote Sklearn Score .66
+#Undersampling Score .69
+#Combination Score .58
+
 Precision Score
 #
 #
