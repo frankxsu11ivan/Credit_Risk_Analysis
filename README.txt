@@ -17,10 +17,6 @@ Using these algorithms:
 https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/Line%2012%20verification.png
 https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/Line%2017%20verification.png
 
-First, oversampling RandomOverSampler
-Second, SMOTE algorithms
-Third, undersampling ClusterCentroids algorithm. 
-
 Deliverable 1
 ###Use the LogisticRegression classifier to make predictions and evaluate the model’s performance.
 ###Calculate the accuracy score of the model.
