@@ -6,6 +6,7 @@ Using the information provided in the code, the training and target  code variab
 ###Create the training variables by converting the string values into numerical ones using the get_dummies() method.
 ###Create the target variables.
 ###Check the balance of the target variables.
+https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/Line%206%20verification.png
 
 Using these algorithms: 
 ###you’ll resample the dataset, 
