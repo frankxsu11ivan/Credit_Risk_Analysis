@@ -22,6 +22,7 @@ Deliverable 1
 ###Calculate the accuracy score of the model.
 ###Generate a confusion matrix.
 ###Print out the imbalanced classification report.
+https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/Line%2024%20verification.png
 
 Deliverable 2
 The combinatorial SMOTEENN algorithm does the following:
