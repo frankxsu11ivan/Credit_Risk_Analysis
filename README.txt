@@ -1,7 +1,7 @@
 Using the imbalanced-learn and scikit-learn libraries, the goal is to evaluate three machine 
 learning models by using resampling to determine which is better at predicting credit risk. 
 
-Using the information we’ve provided in the starter code, create your training and target variables by completing the following steps:
+Using the information provided in the code, the training and target  code variables are completed the following steps:
 
 ###Create the training variables by converting the string values into numerical ones using the get_dummies() method.
 ###Create the target variables.
