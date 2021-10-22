@@ -15,6 +15,7 @@ Using these algorithms:
 ###generate a confusion matrix, 
 ###and generate a classification report.
 https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/Line%2012%20verification.png
+https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/Line%2017%20verification.png
 
 First, oversampling RandomOverSampler
 Second, SMOTE algorithms
