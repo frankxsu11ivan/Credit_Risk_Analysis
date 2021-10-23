@@ -68,5 +68,6 @@ Summary:
 The summary of the result of the SMOTE resample data using undersampling -or oversampling algorithm has a high accurace and while not the training percent accuracy - 
 would be the correct model to use for the data in the model. From MOD 17 undersampling would be the algorithm recommended to drill down to get clarity to the variables and meaning of the data results.
 
+****Resource: LoanStats 2019Ql is to large to upload to GitHub.
 
 
