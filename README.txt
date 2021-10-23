@@ -36,6 +36,7 @@ BalancedRandomForestClassifier algorithm
 ###An accuracy score for the model is calculated 
 ###A confusion matrix has been generated 
 ###An imbalanced classification report has been generated
+https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/RandomForrest.png
 
 EasyEnsembleClassifier algorithm
 ###An accuracy score for the model is calculated 
