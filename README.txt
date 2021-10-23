@@ -42,6 +42,7 @@ EasyEnsembleClassifier algorithm
 ###An accuracy score for the model is calculated 
 ###A confusion matrix has been generated 
 ###An imbalanced classification report has been generated
+https://github.com/frankxsu11ivan/Credit_Risk_Analysis/blob/main/Mod17%20Picts%20as%20Resources/classifier.png
 
 Bulleted Result List of six machine learning models Accuracy Scores:
 #SKLearn accuracy Score .99
