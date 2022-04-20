@@ -72,6 +72,6 @@ The summary of the result of the SMOTE resample data using undersampling -or ove
 would be the correct model to use for the data in the model. From MOD 17 undersampling would be the algorithm recommended to drill down to get clarity to the variables and meaning of the data results. 
 ECC Boost Classifieer gave the highest balanced accuracy score and would be the redo test for credit that should be chosen 
 
-****Resource: LoanStats 2019Ql is to large to upload to GitHub.
+****Resource: LoanStats 2019Ql is to large to upload to GitHub
 
 
